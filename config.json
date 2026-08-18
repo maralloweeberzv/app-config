@@ -1,14 +1,6 @@
 [
   {
-    "domain": "https://www.finmandir.com",
-    "weight": 50
-  },
-  {
-    "domain": "https://www.finmandir.xyz",
-    "weight": 20
-  },
-  {
-    "domain": "https://www.finmandir.club",
-    "weight": 10
+    "domain": "https://www.amundi-fund.com",
+    "weight": 100
   }
 ]
